@@ -1,0 +1,22 @@
+.book{
+    width: 200px;
+    border: 1px solid black;
+    margin: 10px 10px;
+    text-align: left;
+}
+
+.delete{
+    width: 20px;
+    height: 20px;
+    background-color: mediumvioletred;
+    cursor: pointer;
+}
+
+.edit{
+    width: 20px;
+    height: 20px;
+    background-color: deepskyblue;
+    cursor: pointer;
+    margin-left: 180px;
+    display: block;
+}

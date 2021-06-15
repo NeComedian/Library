@@ -1,0 +1,13 @@
+header{
+    margin: 0 auto;
+    position: fixed;
+    background-color: #61dafb;
+    color: white;
+    font-size: 30px;
+    height: 100px;
+    left:50%;
+    transform:translateX(-50%);
+    max-width: 1280px;
+    width: 100%;
+    top:0;
+}
